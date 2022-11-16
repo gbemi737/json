@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap');
+body{
+  background-color: #A39A7F;
+  font-family: 'Playfair', Sans-serif;
+}
+
+
+.outputParagraph{
+  color: #524D40;
+  font-size: 35px;
+  text-align: center;
+}
+
+.newalbum_cover{
+align-items: flex-start;
+ width: 50vw;
+}
+
+.newbest_songs{
+align-items: flex-end;
+margin-top: 0px;
+}
+
+.newYear{
+margin-left: 20px
+}
